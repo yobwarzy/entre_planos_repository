@@ -1,0 +1,163 @@
+{
+  "title": "Entre Planos (Rework)",
+  "id": "entre-planos-rework",
+  "system": "dnd5e",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "5.3.0",
+  "lastPlayed": "Mon Apr 13 2026 18:52:57 GMT-0300 (Horário Padrão de Brasília)",
+  "playtime": 222624,
+  "background": "Entre%20Planos_Rework/Geral/Wallpapers/Tela%20Inicial.png",
+  "description": "<p><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:#839496;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-4df59745-7fff-0a0d-8204-3f17102c1218\">Entre Planos é um guia de regras para Aventuras Compartilhadas, desenvolvido a partir da base estrutural do Dungeons &amp; Dragons (Quinta Edição, 2024). O sistema propõe um conjunto de diretrizes para worldbuilding colaborativo e gestão de guildas, permitindo que múltiplas mesas coexistam dentro de um mesmo universo narrativo compartilhado.</strong></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:9pt;margin-bottom:0pt\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:#839496;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-4df59745-7fff-0a0d-8204-3f17102c1218\">Inspirado nos suplementos Planeshift, de James Wyatt, este guia oferece ferramentas para adaptação de cenários e integração de diferentes planos de existência. Assim como na Adventurers League, estabelece normas comuns para progressão de personagens, uso de recursos e impacto coletivo das ações dos jogadores, garantindo consistência e equilíbrio entre aventuras conduzidas por diferentes Mestres.</strong></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:9pt;margin-bottom:0pt\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:#839496;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-4df59745-7fff-0a0d-8204-3f17102c1218\">O objetivo central do Entre Planos é criar um ecossistema de jogo no qual cada campanha individual contribui para o desenvolvimento de um mundo persistente e interconectado, em que as escolhas feitas por um grupo de aventureiros podem reverberar em todo o cenário.</strong></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:9pt;margin-bottom:0pt\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:#839496;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-4df59745-7fff-0a0d-8204-3f17102c1218\">Entre Planos é um conteúdo de fã não oficial permitido sob a política de conteúdo de fãs. Não foi aprovado/apoiado pela Wizards. Porções do material usado são propriedade da Wizards of the Coast. ©Wizards of the Coast LLC.”</strong></span></p><p><br class=\"Apple-interchange-newline\" /></p>",
+  "packs": [
+    {
+      "label": "Entre Planos (rework)",
+      "type": "Item",
+      "name": "entre-planos-rework",
+      "path": "packs/entre-planos-rework",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Entre Planos (Config)",
+      "type": "Item",
+      "name": "entre-planos-config",
+      "path": "packs/entre-planos-config",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Entre Planos (NPCs)",
+      "type": "Actor",
+      "name": "entre-planos-npcs",
+      "path": "packs/entre-planos-npcs",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Tempo de Inatividade",
+      "type": "RollTable",
+      "name": "tempo-de-inatividade",
+      "path": "packs/tempo-de-inatividade",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Entre Planos - Mapas",
+      "type": "Scene",
+      "name": "entre-planos-mapas",
+      "path": "packs/entre-planos-mapas",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "NPCs (Narradores)",
+      "type": "Actor",
+      "name": "npcs-narradores",
+      "path": "packs/npcs-narradores",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ER - NPCs",
+      "type": "Actor",
+      "name": "er-npcs",
+      "path": "packs/er-npcs",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ER - Guia de Regras",
+      "type": "Item",
+      "name": "er-guia-de-regras",
+      "path": "packs/er-guia-de-regras",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ER - Config",
+      "type": "Item",
+      "name": "er-config",
+      "path": "packs/er-config",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "O Mundo de Aether",
+      "type": "JournalEntry",
+      "name": "o-mundo-de-aether",
+      "path": "packs/o-mundo-de-aether",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Entre Planos (Macros)",
+      "type": "Macro",
+      "name": "entre-planos-macros",
+      "path": "packs/entre-planos-macros",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "NPCs Recorrentes (Missões)",
+      "type": "JournalEntry",
+      "name": "npcs-recorrentes-missoes",
+      "path": "packs/npcs-recorrentes-missoes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "joinTheme": "default",
+  "flags": {}
+}
