@@ -88,6 +88,7 @@ git push origin v1.0
 ---
 
 ## 🧙 Sobre o projeto
+
 Entre Planos é um conteúdo de fã não oficial permitido sob a política de conteúdo de fãs. Não foi aprovado/apoiado pela Wizards. Porções do material usado são propriedade da Wizards of the Coast. ©Wizards of the Coast LLC.
 ---
 Se tiver dúvidas, peça ajuda!
